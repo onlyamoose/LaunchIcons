@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LaunchIcons</string>
+    <string name="txtTitle">Currency Conversion</string>
+    <string name="txtNum">Enter currency value</string>
+    <string name="txtDollartoEuro">US Dollars to Euros</string>
+    <string name="txtEurotoDollar">Euros to US Dollars</string>
+    <string name="txtButton">Convert</string>
+</resources>
